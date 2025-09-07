@@ -7,23 +7,23 @@ const slides = [
     image: "https://i.pinimg.com/736x/ed/fd/99/edfd993fd0853ae4a99f9e7fce9865e6.jpg",
   },
   {
-    title: "ONE PIECE",
-    date: "October 15, 2022 | IMAX 3D",
+    title: "สม ONE",
+    date: "กินเก่ง",
     image: "https://i.pinimg.com/736x/c0/42/60/c042600aa6c0e6468cb88c7d073d8d6a.jpg",
   },
   {
-    title: "MY HERO ACADEMIA",
-    date: "November 10, 2022 | IMAX 3D",
+    title: "สมหมาย",
+    date: "ชอบของหวาน",
     image: "https://i.pinimg.com/736x/15/a5/c5/15a5c547e265a3c7039d1a70eb36edc6.jpg",
   },
   {
-    title: "DEMON SLAYER",
-    date: "December 5, 2022 | IMAX 3D",
+    title: "สมศรี",
+    date: "ของหวาน",
     image: "https://i.pinimg.com/736x/b3/67/47/b367477aaffc1f8039ed582faae46c9d.jpg",
   },
   {
-    title: "NARUTO",
-    date: "January 20, 2023 | IMAX 3D",
+    title: "สมหญิง",
+    date: "เหลื่ยม",
     image: "https://i.pinimg.com/736x/c3/45/ac/c345ac45db81a56b7a13a8ca3ff0f6f7.jpg",
   },
 ];
